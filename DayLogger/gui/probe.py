@@ -4,7 +4,7 @@ from .month_set import MonthSet
 
 # Author Jadd, Nov 8 2020
 # To create a class which is used to navigate through different pages of the application and
-# set as the primary frame to house sub-frames
+# set as the primary frame to house sub-frames 
 
 class Probe(tk.Frame):
 
