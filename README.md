@@ -6,7 +6,7 @@ TECHNICAL SKILLS APPLIED:
 - Used SQL to store tasks
 - Learned what makes a good using experience from everyday use and frequent adjustments
 
-- /
+- //
 ![picture](screenshots/schedule_weekset.jpg)
 ![picture](screenshots/schedule_monthset.jpg)
 
