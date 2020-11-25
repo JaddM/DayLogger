@@ -4,7 +4,7 @@ TECHNICAL SKILLS APPLIED:
 - Practiced design, implementation and debugging
 - Used object-oriented programming and Python to organize tasks
 - Used SQL to store tasks
-- Learned what makes a good using experience from everyday use
+- Learned what makes a good using experience from everyday use and frequent adjustments
 
 - //
 ![picture](screenshots/schedule_weekset.jpg)
